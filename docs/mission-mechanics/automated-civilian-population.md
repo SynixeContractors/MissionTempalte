@@ -106,7 +106,8 @@ ARGANA (Vehicles, WS)
 
 ```sqf
 C_Van_01_transport_F, C_Van_01_box_F, C_Truck_02_flatbed_lxWS, 
-C_Truck_02_cargo_lxWS, C_Offroad_01_F, C_Offroad_02_unarmed_F, C_Quadbike_01_F, C_Offroad_01_covered_F
+C_Truck_02_cargo_lxWS, C_Offroad_01_F, C_Offroad_02_unarmed_F, C_Quadbike_01_F,
+C_Offroad_01_covered_F
 ```
 ~~~
 
@@ -235,8 +236,8 @@ C_Man_8_persian_F, C_Man_9_persian_F
 CITY (Vehicles)
 
 ```sqf
-C_Hatchback_01_F, C_Offroad_02_unarmed_F
-C_Pickup_rf, C_Pickup_covered_rf
+C_Hatchback_01_F, C_Offroad_02_unarmed_F,
+C_Pickup_rf, C_Pickup_covered_rf,
 C_Van_02_vehicle_F, C_Van_02_transport_F, C_SUV_01_F
 ```
 
