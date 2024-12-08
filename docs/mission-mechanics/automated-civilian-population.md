@@ -57,7 +57,7 @@ free to use them in yours!
 ### Regional presets
 These are presets for specific locations from the Armaverse.
 
-~~~admonish collapsible=true title="ALTIS & MALDEN preset"
+~~~admonish collapsible=true title="ALTIS & MALDEN presets"
 ALTIS & MALDEN (Pedestrians)
 
 ```sqf
@@ -73,7 +73,7 @@ C_Offroad_02_unarmed_F, C_Pickup_covered_rf, C_Pickup_rf
 ```
 ~~~
 
-~~~admonish collapsible=true title="LIVONIA preset"
+~~~admonish collapsible=true title="LIVONIA presets"
 LIVONIA (Pedestrians)
 
 ```sqf
@@ -92,7 +92,7 @@ C_Van_02_transport_F, C_Pickup_covered_rf, C_Pickup_rf
 ```
 ~~~
 
-~~~admonish collapsible=true title="ARGANA (WS) preset"
+~~~admonish collapsible=true title="ARGANA presets (WS)"
 ARGANA (Pedestrians, WS)
 
 ```sqf
@@ -110,7 +110,7 @@ C_Truck_02_cargo_lxWS, C_Offroad_01_F, C_Offroad_02_unarmed_F, C_Quadbike_01_F, 
 ```
 ~~~
 
-~~~admonish collapsible=true title="HORIZON ISLANDS preset (French Polynesia)"
+~~~admonish collapsible=true title="HORIZON ISLANDS presets"
 HORIZON ISLANDS (Pedestrians)
 
 ```sqf
@@ -183,7 +183,7 @@ C_man_polo_3_F_afro_sick, C_man_polo_6_F_afro_sick
 ```
 ~~~
 
-~~~admonish collapsible=true title="ASIAN preset"
+~~~admonish collapsible=true title="ASIAN presets"
 ASIAN, City (Pedestrians)
 
 ```sqf
@@ -201,7 +201,7 @@ C_man_polo_5_F_asia, C_man_polo_6_F_asia
 ```
 ~~~
 
-~~~admonish collapsible=true title="EUROPEAN preset"
+~~~admonish collapsible=true title="EUROPEAN presets"
 EUROPEAN, City (Pedestrians)
 
 ```sqf
@@ -219,7 +219,7 @@ C_man_polo_5_F_euro, C_man_polo_6_F_euro
 ```
 ~~~
 
-~~~admonish collapsible=true title="MIDDLE-EASTERN preset"
+~~~admonish collapsible=true title="MIDDLE-EASTERN presets (ATL)"
 MIDDLE-EASTERN (Pedestrians, ATL)
 
 ```sqf
